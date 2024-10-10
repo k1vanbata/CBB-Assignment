@@ -1,0 +1,4 @@
+Repeats More Abundant than Expected in Coding (3 SD above mean of randomized):
+Repeat: AAAA | TTTT, Count: 10
+
+Repeats Less Abundant than Expected in Coding (3 SD below mean of randomized):

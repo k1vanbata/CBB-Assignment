@@ -1,0 +1,17 @@
+Repeats More Abundant than Expected in NonCoding (3 SD above mean of randomized):
+Repeat: TATT | AATA, Count: 14
+Repeat: AAAT | ATTT, Count: 16
+Repeat: ATAA | TTAT, Count: 15
+Repeat: AGAA | TTCT, Count: 9
+Repeat: AATT | AATT, Count: 9
+Repeat: TAAA | TTTA, Count: 14
+Repeat: AAAA | TTTT, Count: 41
+Repeat: AAAAA | TTTTT, Count: 15
+Repeat: TTTT | AAAA, Count: 17
+Repeat: TTAA | TTAA, Count: 10
+Repeat: TTAT | ATAA, Count: 13
+Repeat: ATTT | AAAT, Count: 12
+Repeat: CAAA | TTTG, Count: 9
+Repeat: TTTA | TAAA, Count: 11
+
+Repeats Less Abundant than Expected in NonCoding (3 SD below mean of randomized):
